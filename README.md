@@ -1,8 +1,9 @@
 # Nature Mood
 
-A stormcloud bar widget for Omarchy that plays bundled nature sounds. Open
-the picker from the bar, browse a cover flow of 12 tracks, and play — all
-audio is local, no streaming, no external player.
+A simple bar widget for Omarchy that plays soothing background sounds.
+
+Everything is bundled into the plugin itself to avoid needing to stream anything
+from a remote server once installed. No ads or tracking, either, obviously!
 
 ## Features
 
@@ -56,7 +57,8 @@ omarchy plugin remove woganmay.nature-mood
 ## Requirements
 
 MP3 playback uses the shell's QtMultimedia stack with its ffmpeg backend —
-bundled with Omarchy, nothing extra to install.
+bundled with Omarchy, nothing extra to install assuming you're running a recent
+version of Omarchy.
 
 ## Attribution
 
