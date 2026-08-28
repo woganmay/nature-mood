@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 110">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#948f9e" />
+      <stop offset="1" stop-color="#272430" />
+    </linearGradient>
+  </defs>
+  <rect width="190" height="110" rx="14" fill="url(#g)" />
+  <g transform="translate(60.0 20.0) scale(0.13672)">
+    <path d="m479.471 482v-196.948h-90.565v-180h-30.188v-60h-61.013v-45.052h-30v45.052h-61.013v60h-30.188v60h-143.975v316.948h-32.529v30h512v-30zm-30 0h-30.377v-133.05h-30v133.05h-30.377v-133.05h-30v133.05h-30.376v-166.948h151.13zm-212.78-346.948v-60h92.026v60h30.188v150h-90.565v196.948h-61.838v-346.948zm-174.162 60h113.974v286.948h-113.974z" fill="#fff" />
+    <path d="m237.704 165.052h30v30h-30z" fill="#fff" />
+    <path d="m267.704 105.052h30v30h-30z" fill="#fff" />
+    <path d="m237.704 225.052h30v30h-30z" fill="#fff" />
+    <path d="m297.704 165.052h30v30h-30z" fill="#fff" />
+    <path d="m297.704 225.052h30v30h-30z" fill="#fff" />
+    <path d="m103.923 225.052h30v30h-30z" fill="#fff" />
+    <path d="m103.923 289.289h30v30h-30z" fill="#fff" />
+    <path d="m103.923 353.526h30v30h-30z" fill="#fff" />
+    <path d="m103.923 417.763h30v30h-30z" fill="#fff" />
+  </g>
+</svg>

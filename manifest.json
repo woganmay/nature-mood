@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "woganmay.nature-mood",
+  "name": "Nature Mood",
+  "version": "0.2.0",
+  "author": "Wogan May",
+  "license": "MIT",
+  "description": "Stormcloud bar widget that plays bundled nature sounds",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Nature Mood",
+    "description": "Stormcloud bar widget that plays bundled nature sounds",
+    "category": "Audio",
+    "allowMultiple": false
+  }
+}

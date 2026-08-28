@@ -1,0 +1,8 @@
+# Editor / OS junk
+*.swp
+*~
+.DS_Store
+.vscode/
+.idea/
+
+# The bundled mp3s in sounds/ are part of the plugin — keep them tracked.
