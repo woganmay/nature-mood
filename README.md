@@ -3,7 +3,9 @@
 A simple bar widget for Omarchy that plays soothing background sounds.
 
 Everything is bundled into the plugin itself to avoid needing to stream anything
-from a remote server once installed. No ads or tracking, either, obviously!
+<p align="center">
+  <img src="preview.png" alt="Nature Mood preview" width="480">
+</p>
 
 ## Features
 
